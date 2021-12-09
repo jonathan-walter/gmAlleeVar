@@ -1,2 +1,2 @@
 # gmAlleeVar
-Data and code from Gypsy Moth Allee effect variation study
+Data and code from Lymantria dispar Allee effect variation study
